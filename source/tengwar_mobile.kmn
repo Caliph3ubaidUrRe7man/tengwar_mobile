@@ -7,6 +7,7 @@ store(&KEYBOARDVERSION) '1.0'
 store(&TARGETS) 'windows macosx linux web iphone ipad androidphone androidtablet mobile desktop tablet'
 store(&LAYOUTFILE) 'tengwar_mobile.keyman-touch-layout'
 store(&VISUALKEYBOARD) 'tengwar_mobile.kvks'
+store(&BITMAP) 'tengwar_mobile.ico'
 
 begin Unicode > use(main)
 
