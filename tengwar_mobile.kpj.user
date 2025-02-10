@@ -31,6 +31,10 @@
       <FullPath>D:\tengwar_mobile\source\readme.htm</FullPath>
     </FileState>
     <FileState>
+      <ID>id_c47c744c7f128b766490222dfd1230dc</ID>
+      <FullPath>D:\tengwar_mobile\source\tengwar_mobile.ico</FullPath>
+    </FileState>
+    <FileState>
       <ID>id_eafb2fc8a4f9941176080c844fe609b3</ID>
       <FullPath>D:\tengwar_mobile\source\tengwar_mobile.keyman-touch-layout</FullPath>
     </FileState>
@@ -95,8 +99,12 @@
       <FullPath>D:\tengwar_mobile\source\help\tengwar_mobile.php</FullPath>
     </FileState>
     <FileState>
-      <ID>id_c47c744c7f128b766490222dfd1230dc</ID>
-      <FullPath>D:\tengwar_mobile\source\tengwar_mobile.ico</FullPath>
+      <ID>id_0770c7bc8cc0745a92593a7fe150b245</ID>
+      <FullPath>D:\tengwar_mobile\source\help\mobile_keyboard_layout.jpg</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_2639f85c3fd7acf4d65be8c2ed2a9685</ID>
+      <FullPath>D:\tengwar_mobile\source\help\mobile_layout_numbers.jpg</FullPath>
     </FileState>
   </FileStates>
   <MRU>

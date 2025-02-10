@@ -84,6 +84,18 @@
       <CopyLocation>0</CopyLocation>
       <FileType>.php</FileType>
     </File>
+    <File>
+      <Name>help\mobile_keyboard_layout.jpg</Name>
+      <Description>File mobile_keyboard_layout.jpg</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.jpg</FileType>
+    </File>
+    <File>
+      <Name>help\mobile_layout_numbers.jpg</Name>
+      <Description>File mobile_layout_numbers.jpg</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.jpg</FileType>
+    </File>
   </Files>
   <Keyboards>
     <Keyboard>
